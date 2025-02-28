@@ -1,2 +1,2 @@
 # Bihan-s-Sound-Bank
-    [Sample].(sample.json)
+    [Sample] (sample.json)
